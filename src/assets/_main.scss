@@ -1,0 +1,47 @@
+
+.nav-tabs>li>a {
+  padding: 10px 15px;
+  display: block;
+}
+
+.nav-tabs>li {
+  margin-bottom: -1px;
+}
+
+.nav>li {
+  position: relative;
+  display: block;
+}
+
+.nav-tabs>li>a.active {
+  color: #555;
+  cursor: default;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-bottom: none;
+}
+
+.nav-tabs>li>a {
+  line-height: 1.42857143;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  margin: 0 8px;
+}
+
+input[type="file"] {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.form-check-inline {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0;
+  margin-right: 0.75rem;
+}
+label[class*="col"]{
+  align-self: center;
+}
