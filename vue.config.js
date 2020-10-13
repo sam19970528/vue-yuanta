@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/yuanta-front-end/dist'
+  publicPath: '/vue-yuanta/dist'
 }
